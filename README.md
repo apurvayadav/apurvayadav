@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @apurvayadav
 - 👀 I’m interested in python machine learning and deep learning
-- 🌱 I’m currently learning machine learning with python
+- 🌱 I’m currently learning Data analytics.
 - 📫 you can reach me on appuyadav121gmail.com
 
 <!---

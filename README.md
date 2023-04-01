@@ -6,7 +6,7 @@ I have completed multiple online courses to gain the necessary skills for Data S
 
 Some of the technologies I am familiar with are Python, SQL, Machine Learning, Deep Learning, NLP, Exploratory Data Analysis, NumPy, Pandas, Matplotlib, Seaborn, SpaCy, SciKit-Learn, Tensorflow, StreamLit, Git and GitHub, R, Tableau.
 
-I like to interact with new people, So don't hesitate to drop a message
+I like to interact with new people, So don't hesitate to drop me a message
 
 <!---
 apurvayadav/apurvayadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
